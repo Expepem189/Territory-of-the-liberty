@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Vascopixel Minimap
+// @name         Kartocka
 // @namespace    http://tampermonkey.net/
 // @version      1.2.4
 // @description  VP Minimap Zone
@@ -18,7 +18,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Autumn-Blaze/ponehs/master/';
+window.baseTepmlateUrl = 'https://github.com/Expepem189/Territory-of-the-liberty';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
