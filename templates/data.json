@@ -1,14 +1,14 @@
 { 
-"rl": { 
-"name": "rl.png", 
+"lr": { 
+"name": "lr.png", 
 "x": 2396, 
 "y": -2512 ,
 "width": 825 ,
 "height": 992 
 }, 
 
-"hRjj1lF7Ruc": { 
-"name": "hRjj1lF7Ruc.png", 
+"roti": { 
+"name": "tori.png", 
 "x": -2396, 
 "y": 2512 ,
 "width": 456 ,
