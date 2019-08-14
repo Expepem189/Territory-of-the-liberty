@@ -1,17 +1,17 @@
 { 
-"rl":{ 
-"name":"rl.png", 
-"x":2396, 
-"y":-2512 ,
-"width"825 ,
-"height":992 
+"rl" :{ 
+"name" : "rl.png", 
+"x" :2396, 
+"y" :-2512 ,
+"width" :825 ,
+"height" :992 
 }, 
 
-"hRjj1lF7Ruc":{ 
-"name":"hRjj1lF7Ruc.png", 
-"x":-2396, 
-"y":2512 ,
-"width"456 ,
-"height":884 
+"hRjj1lF7Ruc" :{ 
+"name" : "hRjj1lF7Ruc.png", 
+"x" :-2396, 
+"y" :2512 ,
+"width" :456 ,
+"height" :884 
 } 
 } 
