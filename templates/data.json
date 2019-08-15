@@ -2,15 +2,15 @@
 "lr": { 
 "name": "lr.png", 
 "x": 2396, 
-"y": -2512 ,
+"y": -3098 ,
 "width": 825 ,
 "height": 992 
 }, 
 
 "roti": { 
 "name": "tori.png", 
-"x": -2396, 
-"y": 2512 ,
+"x": 0, 
+"y": 0 ,
 "width": 456 ,
 "height": 884 
 } 
